@@ -12,5 +12,8 @@
     "async"
   ],
   "author": "Juan David Marin <wvanay1996@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
 }
